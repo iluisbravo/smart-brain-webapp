@@ -1,0 +1,9 @@
+Project Files: Github
+You can find the project files for the final SmartBrain project below.
+Please note that these files include all the changes made up to the end of Section
+24 where we integrate front end and server. You will also need to add your own Clarifai 
+API key in App.js (which is free):
+
+Front end: https://github.com/aneagoie/face-recognition-brain
+
+Back end: https://github.com/aneagoie/face-recognition-brain-api
